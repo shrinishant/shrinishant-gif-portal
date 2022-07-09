@@ -34,6 +34,10 @@ const App = () => {
     }
   };
 
+  const connectWallet = async () => {
+    // pass
+  }
+
   const renderNotConnectedContainer = () => (
     <button
       className="cta-button connect-wallet-button"
