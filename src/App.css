@@ -1,7 +1,5 @@
 .App {
-  height: 100vh;
   background-color: #1a202c;
-  overflow: auto;
   text-align: center;
 }
 
@@ -70,7 +68,6 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  position: absolute;
   width: 100%;
   bottom: 0;
   left: 0;
